@@ -1,5 +1,9 @@
 # Intro
-Hello. I am Edris, 
+Hello. I am Edris, I have a B.S in IT, but did not work in the field since I graduated 10 years ago. I am back to learning to code as I have passion for building things using computer. I decide web development suits me better because I can instantly see what I have built as I more vistual learner.
+My interest include soccer, table tennis, music, travel cooking and baking.
+
+My goal is to graduate from Code Fellows and find a job in tech as a web developer.
+
 # Code 102 Reading
 
 - Reading 1
