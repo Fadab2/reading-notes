@@ -4,9 +4,8 @@ My interest include soccer, table tennis, music, travel cooking and baking.
 
 My goal is to graduate from Code Fellows and find a job in tech as a web developer.
 
-Github link: https://fadab2.github.io/reading-notes/
-
-# Code 102 Reading
+Github profile:
+- https://github.com/Fadab2
 
   
 ### ***Growth mindset means***
