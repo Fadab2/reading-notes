@@ -4,7 +4,7 @@ My interest include soccer, table tennis, music, travel cooking and baking.
 
 My goal is to graduate from Code Fellows and find a job in tech as a web developer.
 
-- [Github profile](https://github.com/Fadab2/)
+[Github profile](https://github.com/Fadab2/)
 
   
 ### ***Growth mindset means***
