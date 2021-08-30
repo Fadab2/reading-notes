@@ -15,8 +15,8 @@ Whenever we feel something is above our abilities and we cannot do it we have to
 
 **How to keep myself in a growth mindset**:
 
-1.	I found the “instant gratification monkey syndrome” quiet fitting to me when I am faced with the first obstacle on doing something. And reading this article helped me a lot      recognizing I suffer from it. So whenever I catch myself falling into the “instant gratification monkey syndrome.” I will remind myself the problem won’t get solved and I won’t     achieve any progress by avoiding the task.
-2.	I will remind myself that I should never postpone something out of laziness or difficulty understanding because I will never make progress and I will regret it.
+1.	I found the “instant gratification monkey syndrome” quiet fitting to me when I am faced with the first obstacle on doing something that is challenging. And reading this article helped me a lot recognizing I suffer from it. So whenever I catch myself falling into the “instant gratification monkey syndrome.” I will remind myself the problem won’t get solved and I won’t achieve any progress by avoiding the task. 
+2.	I will remind myself that I should never postpone something out of laziness or difficulty understanding it because then I will not make progress and I will regret it. I will seek help when I need it and when stuck.
 3.	The only way to progress in life, in career or any skills is to keep working hard even when it sounds impossible just keep grinding  little by little and you will make               progress.  
 
   
