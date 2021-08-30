@@ -3,7 +3,8 @@ Hello. I am Edris, I am currently enrolled in Code Fellows bootcamp. My goal is 
 My interest include soccer, table tennis, music, travel cooking and baking.
 
 My goal is to graduate from Code Fellows as full stack developer and find a job in tech.
--Contact information available upon request.
+Contact information available upon request.
+
 Check my [ GitHub portfolio](https://github.com/Fadab2/)
 
   
