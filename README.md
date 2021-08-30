@@ -1,8 +1,8 @@
 # Bio
-Hello. I am Edris, I have a B.S in IT, but did not work in the field since I graduated 10 years ago. I am back to learning to code as I have passion for building things using computer. I decide web development suits me better because I can instantly see what I have built as I am more vistual learner.
+Hello. I am Edris, I am currently enrolled in Code Fellows bootcamp. My goal is to become a web developer by finishing all the Code Fellows courses 102-401. I have passion for learning and building things using computer. I decide web development suits me better because I can instantly see what I have built as I am more vistual learner.
 My interest include soccer, table tennis, music, travel cooking and baking.
 
-My goal is to graduate from Code Fellows and find a job in tech as a web developer.
+My goal is to graduate from Code Fellows as full stack developer and find a job in tech.
 
 Check my [Github profile](https://github.com/Fadab2/)
 
