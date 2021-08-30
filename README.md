@@ -1,3 +1,5 @@
+# Intro
+Hello. I am Edris, 
 # Code 102 Reading
 
 - Reading 1
@@ -17,3 +19,6 @@ def new_func()":
   print('Hello World')
   
   ```
+  
+  ### Growth mindset means
+  
