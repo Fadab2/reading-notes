@@ -24,8 +24,8 @@ Whenever we feel something is above our abilities and we cannot do it we have to
   
   1. [Reading 1](class4-summary.md)
   2. [GitHub & Markdown](topics-summary.md)
-  3. [Text Editors & Command Line](coding-tools.md)
-  4. [Markdown Reading](markdown.md)
+  4. [Text Editors & Command Line](coding-tools.md)
+  5. [Markdown Reading](markdown.md)
   6. Reading 5
   7. Reading 6
   8. Reading 7
