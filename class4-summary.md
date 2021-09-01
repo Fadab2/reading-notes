@@ -1,4 +1,4 @@
-** Wireframe **
+## Wireframe ##
 Wireframes is how to put an outline of how our website/app should look before we start coding it.
 It just an idea to vistualize how the layout of  a web/app looks and where we should put the different things that we have in mind for our design. It is vistual so we need to make look nice and easy to use. This way we have an actual view of what things will look like in real life and if we don't like something we can change it until we are happy to the design. In the beginning We can design using pen and paper then  convert it to digital using Wireframe so it can as an actual web/app, easy to share and edit/adjust as needed.
 
