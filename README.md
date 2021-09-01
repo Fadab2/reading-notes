@@ -29,6 +29,6 @@ Whenever we feel something is above our abilities and we cannot do it we have to
   4. [HTML & Wireframe](html-wireframe.md)
   5. [Learning about git](reading-git.md)
   6. [Learning CSS](learning-css.md)
-  7. Reading 7
+  7. [Learning JavaScript](learning-js.md)
   8. Reading 8
   
