@@ -22,12 +22,13 @@ Whenever we feel something is above our abilities and we cannot do it we have to
 
   ## ***102 Reading***
   
-  1. [Reading 1](class4-summary.md)
-  2. [GitHub & Markdown](topics-summary.md)
-  4. [Text Editors & Command Line](coding-tools.md)
-  5. [Markdown Reading](markdown.md)
-  6. Reading 5
-  7. Reading 6
-  8. Reading 7
-  9. Reading 8
+ 
+  1. [GitHub & Markdown](topics-summary.md)
+  2. [Text Editors & Command Line](coding-tools.md)
+  3. [Markdown Reading](markdown.md)
+  4. [eading 1](class4-summary.md)
+  5. eading 5
+  6 Reading 6
+  7 Reading 7
+  8.Reading 8
   
