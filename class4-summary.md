@@ -5,3 +5,6 @@ It just an idea to vistualize how the layout of  a web/app looks and where we sh
 ## HTML ##
 
 HTML is the language that is used to write website content. Without HTML there is no website because all websites need to be written using HTML. HTML usese something called tags. Some tags have opening an closing like the paragraph tag <p< </p> while other tags only have one tag in the beginning. We use different tags for different tasks/formats like making a text bold/italic, inserting images, links etc.
+
+
+[Back to Home](README.md)
