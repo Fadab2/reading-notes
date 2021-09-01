@@ -26,3 +26,6 @@ Browsers find the related style sheet if there is one and apply the styling to t
 We can use CSS externally meaning the style sheet reside outside the HTML, but has a reference to it.
 Internal CSS meaning the style sheet is present inside the HTML document within the style element inside the head element.
 And lastly we have the inline CSS which is using inside and HTML element to apply specific styling.
+
+
+[Back to Home](README.md)
