@@ -20,4 +20,14 @@ Whenever we feel something is above our abilities and we cannot do it we have to
 2.	I will remind myself that I should never postpone something out of laziness or difficulty understanding it because then I will not make progress and I will regret it. I will seek help when I need it and when stuck.
 3.	The only way to progress in life, in career or any skills is to keep working hard even when it sounds impossible just keep grinding  little by little and you will make               progress.  
 
+  ## ***102 Reading***
+  
+  1. [Reading 1](https://github.com/Fadab2/reading-notes/blob/main/class4-summary)
+  2. Reading 2
+  3. Reading 3
+  4. Reading 4
+  5. Reading 5
+  6. Reading 6
+  7. Reading 7
+  8. Reading 8
   
