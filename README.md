@@ -23,11 +23,11 @@ Whenever we feel something is above our abilities and we cannot do it we have to
   ## ***102 Reading***
   
   1. [Reading 1](https://github.com/Fadab2/reading-notes/blob/main/class4-summary)
-  2. [Reading 2](https://github.com/Fadab2/reading-notes/blob/main/codingt-tools)
-  3. [Reading 3](https://github.com/Fadab2/reading-notes/blob/main/markdown.md)
-  4. [Reading 4](https://github.com/Fadab2/reading-notes/blob/main/topics-summary)
-  5. Reading 5
-  6. Reading 6
-  7. Reading 7
-  8. Reading 8
+  2.  [GitHub & Markdown](https://github.com/Fadab2/reading-notes/blob/main/topics-summary)
+  3. [Text Editors & Command Line](https://github.com/Fadab2/reading-notes/blob/main/codingt-tools)
+  4. [Markdown Reading](https://github.com/Fadab2/reading-notes/blob/main/markdown.md)
+  6. Reading 5
+  7. Reading 6
+  8. Reading 7
+  9. Reading 8
   
