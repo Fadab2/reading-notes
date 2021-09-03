@@ -29,6 +29,6 @@ Whenever we feel something is above our abilities and we cannot do it we have to
   4. [Learning about git](reading-git.md)
   5. [Learning CSS](learning-css.md)
   6. [Learning JavaScript](learning-js.md)
-  7. [JavaScript Operaters](../js-operators.md)
-  8. [JavaScript Loops](../js-loops.md)
+  7. [JavaScript Operaters](js-operators.md)
+  8. [JavaScript Loops](js-loops.md)
   
