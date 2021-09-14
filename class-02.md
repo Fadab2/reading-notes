@@ -27,5 +27,7 @@ to declare a function that calculates the total we can use:
 Function add(num1, num2) {
     return num1+num2;
 }
-[Back to Hoome](README.md)
+
+
+[Back to Home](README.md)
 
