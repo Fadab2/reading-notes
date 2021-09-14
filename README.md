@@ -20,7 +20,7 @@ Whenever we feel something is above our abilities and we cannot do it we have to
 2.	I will remind myself that I should never postpone something out of laziness or difficulty understanding it because then I will not make progress and I will regret it. I will seek help when I need it and when stuck.
 3.	The only way to progress in life, in career or any skills is to keep working hard even when it sounds impossible just keep grinding  little by little and you will make               progress.  
 
-  ## ***102 Reading***
+  ## ***Code 102 Reading Notes***
   
  
   1. [GitHub & Markdown](topics-summary.md)
@@ -31,4 +31,22 @@ Whenever we feel something is above our abilities and we cannot do it we have to
   6. [Learning JavaScript](learning-js.md)
   7. [JavaScript Operaters](js-operators.md)
   8. [JavaScript Loops](js-loops.md)
+
   
+  ## ***Code 201 Reading Notes*** 
+   
+ 1. Reading One
+ 2. Reading Two
+ 3. Reading Three
+ 4. Reading Four
+ 5. Reading Five
+ 6. Reading Six
+ 7. Reading Seven
+ 8. Reading Eight
+ 9. Reading Nine
+ 10. Reading Ten
+ 11. Reading Eleven
+ 12. Reading Twelve
+ 13. Reading Thirteen
+ 14. Reading Fourteen
+ 15. Reading Fifteen
