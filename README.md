@@ -35,7 +35,7 @@ Whenever we feel something is above our abilities and we cannot do it we have to
   
   ## ***Code 201 Reading Notes*** 
    
- 1. Reading One
+ 1. [Intro HTML and JS](class-01.md)
  2. Reading Two
  3. Reading Three
  4. Reading Four
