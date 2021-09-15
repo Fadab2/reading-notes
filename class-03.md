@@ -1,13 +1,13 @@
-ML Lists
+## HTML Lists
   
   ## There are three types of lists:
   * Ordered list
-  * * In which items are order by numbers and we use `<ol>` tag and `<li>` used inside it to list the item
+  *  In which items are order by numbers and we use `<ol>` tag and `<li>` used inside it to list the item
   * Unordered list
-  * * which uses bullets or list the item and we use the `<ul>` tag and `<li>` used inside it to list the item
+  *  which uses bullets or list the item and we use the `<ul>` tag and `<li>` used inside it to list the item
   
   * Definition lists
-  * * which is used to list item with definitions. `<dl>` is used and inside it `<dt>` is used specify the term and the `<dd>` to define that term. 
+  *  which is used to list item with definitions. `<dl>` is used and inside it `<dt>` is used specify the term and the `<dd>` to define that term. 
 
 ## CSS Boxes
 
@@ -35,11 +35,11 @@ We can also give our elements things like:
 
 There are 3 types of loops:
 * for loop.
-* * used if we know exactly how many times we want the loop to run.
+*  used if we know exactly how many times we want the loop to run.
 * while loop
-* * used when we don't know the exactly how many times we will run the loop.
+*  used when we don't know the exactly how many times we will run the loop.
 * do while loop 
-*  * same as while loop except it will run once before checking the condition.
+*   same as while loop except it will run once before checking the condition.
 
 References
 * JAVASCRIPT & JQUERY by Jon Duckett
