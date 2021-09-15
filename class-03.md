@@ -1,13 +1,13 @@
 ## HTML Lists
   
-  ## There are three types of lists:
+## There are three types of lists:
   * Ordered list
-  *  In which items are order by numbers and we use `<ol>` tag and `<li>` used inside it to list the item
+    *  In which items are order by numbers and we use `<ol>` tag and `<li>` used inside it to list the item
   * Unordered list
-  *  which uses bullets or list the item and we use the `<ul>` tag and `<li>` used inside it to list the item
+    *  which uses bullets or list the item and we use the `<ul>` tag and `<li>` used inside it to list the item
   
   * Definition lists
-  *  which is used to list item with definitions. `<dl>` is used and inside it `<dt>` is used specify the term and the `<dd>` to define that term. 
+    *  which is used to list item with definitions. `<dl>` is used and inside it `<dt>` is used specify the term and the `<dd>` to define that term. 
 
 ## CSS Boxes
 
