@@ -28,6 +28,6 @@ CSS allows us to change the size of the text using the `font-size:`, the typefac
 
 - JAVASCRIPT & JQUERY by Jon Duckett 
 - HTML&CSS by Jon Duckett
-- 
+  
 
 [Go to Home](README.md)
