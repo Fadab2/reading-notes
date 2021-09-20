@@ -4,6 +4,7 @@
 * Objects are made up of variables and functions. It used to create/represent/model something in the real world such as a car a house.
     * when part of an object variables become properties
     * function become methods.
+  
 Example of creating an object using literal notation:
 ``` 
 var car {
@@ -23,7 +24,7 @@ var carMake = car.make;
 ```
 
 ### Document Object Model (DOM)
-DOM a separate set of rules implemented by browsers that specifies and helps JavaScript to create dynamic HTML by creating rules on how JS should access and manipulate web page contents.
+DOM is a separate set of rules implemented by browsers that specifies and helps JavaScript to create dynamic HTML by creating rules on how JS should access and manipulate web page contents.
 
 ### How it works:
 * Browsers create DOM of the page as it loads.
@@ -35,15 +36,19 @@ DOM a separate set of rules implemented by browsers that specifies and helps Jav
 * element nodes
 * attribute nodes
 * text nodes
+
 Nodes are selected by their id, class, tag, or using CSS selectors.
 Nodes can be updated/accessed using textContent, innerHTML or DOM manipulation. 
 for example to access the text in `<li id ="one"><em> fresh</em> figs</li>` we use
 ```
 document.getElementById('one').textContent;
+```
 
-[Go to home](README.md)
-
-`#### References:
+ ### References:
 
 - JAVASCRIPT & JQUERY by Jon Duckett 
 - HTML&CSS by Jon Duckett
+  
+
+[Go to home](README.md)
+
