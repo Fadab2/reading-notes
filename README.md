@@ -41,7 +41,7 @@ Whenever we feel something is above our abilities and we cannot do it we have to
  4. [HTML Links, JS Functions, and Intro to CSS Layout](class-04.md)
  5. [HTML Images, CSS Color & Text](class-05.md)
  6. [Problem Domain, Objects, and the DOM](class-06.md)
- 7. Reading Seven
+ 7. [Object-Oriented Programming, HTML Tables](class-07.md)
  8. Reading Eight
  9. Reading Nine
  10. Reading Ten
