@@ -43,7 +43,7 @@ Whenever we feel something is above our abilities and we cannot do it we have to
  6. [Problem Domain, Objects, and the DOM](class-06.md)
  7. [Object-Oriented Programming, HTML Tables](class-07.md)
  8. [CSS Layout](class-08.md)
- 9. Reading Nine
+ 9. [Forms and JS Events](class-09.md)
  10. Reading Ten
  11. Reading Eleven
  12. Reading Twelve
