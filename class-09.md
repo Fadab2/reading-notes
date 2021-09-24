@@ -46,7 +46,7 @@ Examples of mouse events are:
 - `mousedown` mouse pressed while over an element
 - `mouseover` mouse moved over an element 
  
- #### References:
+#### References:
 
 - JAVASCRIPT & JQUERY by Jon Duckett 
 - HTML&CSS by Jon Duckett
