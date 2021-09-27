@@ -45,7 +45,7 @@ Whenever we feel something is above our abilities and we cannot do it we have to
  8. [CSS Layout](class-08.md)
  9. [Forms and JS Events](class-09.md)
  10. [Debugging](class-10.md)
- 11. Reading Eleven
+ 11. [Audio, Video, Images](class-11.md)
  12. Reading Twelve
  13. Reading Thirteen
  14. Reading Fourteen
