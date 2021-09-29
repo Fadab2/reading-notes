@@ -47,6 +47,6 @@ Whenever we feel something is above our abilities and we cannot do it we have to
  10. [Debugging](class-10.md)
  11. [Audio, Video, Images](class-11.md)
  12. [Chart.js and Canvas](class-12.md)
- 13. Reading Thirteen
+ 13. [Local Storage](class-13.md)
  14. Reading Fourteen
  15. Reading Fifteen
