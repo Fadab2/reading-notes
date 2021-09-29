@@ -13,8 +13,8 @@ What we need is a lot of storage space on the client side that is not affected b
 - Enables web pages to store key/value pairs locally in the client's browser.
 - Data exists even when the client exit the browser
 - Never transimitted to a server automatically.
-- Implemented natively in browers
-- Almost supported by all browers.
+- Implemented natively in browsers
+- Almost supported by all browsers.
   
 Code to check for HTML5 Storage
 ```
@@ -42,7 +42,7 @@ interface Storage {
   void clear();
 };
 ```
-### Limition on browsers
+### Limmition on browsers
 - 5 megabyes of storage space
 - QUOTA_EXCEEDED_ERR if max storage exceeded.
 - You can't ask for more storage
