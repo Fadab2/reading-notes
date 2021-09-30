@@ -4,7 +4,7 @@
 
 Transforms provides us with another way to modify size, position and change element.
 Two different setting to transform elements:
-#### 2D setting 
+#### 2D setting
   Works on the y and x axes (length & width) to rotate elements clockwise/counterclockwise.
   We can rotate an elements certain degrees using the rotate value:
   ```
