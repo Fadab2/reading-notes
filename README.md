@@ -48,5 +48,5 @@ Whenever we feel something is above our abilities and we cannot do it we have to
  11. [Audio, Video, Images](class-11.md)
  12. [Chart.js and Canvas](class-12.md)
  13. [Local Storage](class-13.md)
- 14. Reading Fourteen
+ 14. [ CSS Transforms, Transitions, and Animations](class-14.md)
  15. Reading Fifteen
