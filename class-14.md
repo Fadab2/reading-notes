@@ -4,7 +4,7 @@
 
 Transforms provides us with another way to modify size, position and change element.
 Two different setting to transform elements:
-  #### 2D setting 
+#### 2D setting 
   Works on the y and x axes (length & width) to rotate elements clockwise/counterclockwise.
   We can rotate an elements certain degrees using the rotate value:
   ```
@@ -24,10 +24,10 @@ We can resize element using the scale value:
   transform: scale(1.25);
 }
 ```
-Other transform values include `skew, tanslate, transform-origin`
+Other transform values include `skew, translate, transform-origin`
 
 #### 3D setting
- Works on the y, x ans z axes (length, width, depth) rotates elements in any direction using values for each of the 3 axes:
+ Works on the y, x and z axes (length, width, depth) rotates elements in any direction using values for each of the 3 axes:
  ```
  .box-1 {
   transform: perspective(200px) scaleZ(1.75) rotateX(45deg);
@@ -64,7 +64,7 @@ The `@keyframes` rule is used to set point of transition.
   }
 }
 ```
-Animation properties include ` animation-duration, animation-timing-function, and animation-delay`
+Animation properties include `animation-duration, animation-timing-function, and animation-delay`
 
 #### References:
 [Transforms](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
