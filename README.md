@@ -49,5 +49,6 @@ Whenever we feel something is above our abilities and we cannot do it we have to
  12. [Chart.js and Canvas](class-12.md)
  13. [Local Storage](class-13.md)
  14. [ CSS Transforms, Transitions, and Animations](class-14.md)
-   - [What Google Learned About Teams](class-14b.md)
- 15. Reading Fifteen
+ 15.  [What Google Learned About Teams](class-14b.md)
+   ## 301 Notes
+ 1.  [React](react.md)
