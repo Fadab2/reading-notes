@@ -1,9 +1,30 @@
 ## React lifecycle
 
 1.  Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
+     - componentDidMount happens first.
+  
 2.  What is the very first thing to happen in the lifecycle of React?
+      - The very first thing to happen in the React lifecycle is constructor.
+  
 3.  Put the following things in the order that they happen: `componentDidMount, render, constructor, componentWillUnmount, React Updates`
+    - constructor, redner, componentDidMount, React Updates, componentWillUnmount
 4.  What does componentDidMount do?
+      - Invoked immediately after a component is mounted.
+      - Used to initialize the DOM or load network request.
+      - Used to set up subscriptions.
+  Example of how to connect to the YouTube API use componentDidMount()
+  ```
+  componentDidMount() {
+console.log(‘got videos’);
+this.getVideos(‘cats’);
+}
+getVideos(query) {
+var options = {
+key: this.props.YOUTUBE_API_KEY,
+query: query
+};
+```
+
 
 ## React State Vs Props
  Props are like arguments to a function.
@@ -17,6 +38,9 @@
    When we want to change some data on the application we store that in state.
 
 ## Things I want to know more about
+  - Virtual DOM
+  - useState
+
 
 #### References:
 
