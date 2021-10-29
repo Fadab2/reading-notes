@@ -15,16 +15,15 @@
   Example of how to connect to the YouTube API use componentDidMount()
   ```
   componentDidMount() {
-console.log(‘got videos’);
-this.getVideos(‘cats’);
-}
-getVideos(query) {
-var options = {
-key: this.props.YOUTUBE_API_KEY,
-query: query
-};
+ console.log(‘got videos’);
+ this.getVideos(‘cats’);
+ }
+  getVideos(query) {
+ var options = {
+ key: this.props.YOUTUBE_API_KEY,
+  query: query
+  };
 ```
-
 
 ## React State Vs Props
  Props are like arguments to a function.
