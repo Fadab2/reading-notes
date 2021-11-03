@@ -1,12 +1,12 @@
 ## APIs
 
 
-1. What does REST stand for?
+ What does REST stand for?
      -  Representational State Transfer
 2. REST APIs are designed around a _resources_.
    
-3. What is an identifer of a resource? Give an example.
-    - A unique url that identifies the resource examplae: https://banans.com/medium/num-of-legs/3
+3. What is an identifier of a resource? Give an example.
+    - A unique url that identifies the resource example: https://banans.com/medium/num-of-legs/3
 4. What are the most common HTTP verbs?
    - GET, POST, PUT, PATCH, and DELETE
 5. What should the URIs be based on?
@@ -27,6 +27,8 @@
 
 
 ## Things I want to know more about
+  - HATEOAS
+  - Asynchronous Resquest-Reply patern
 
 #### References:
 
