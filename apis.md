@@ -28,7 +28,7 @@
 
 ## Things I want to know more about
   - HATEOAS
-  - Asynchronous Resquest-Reply patern
+  - Asynchronous Request-Reply pattern
 
 #### References:
 
