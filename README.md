@@ -62,3 +62,4 @@ Whenever we feel something is above our abilities and we cannot do it we have to
  20. [Putting it all together](week1-summary.md)
  21. [Node.js](node.js.md)
  22. [Rest](rest.md)
+ 23. [APIs](apis.md)
