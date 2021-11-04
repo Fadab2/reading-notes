@@ -63,3 +63,4 @@ Whenever we feel something is above our abilities and we cannot do it we have to
  21. [Node.js](node.js.md)
  22. [Rest](rest.md)
  23. [APIs](apis.md)
+ 24. [FUNCTIONAL PROGRAMMING](functional-programming.md)
