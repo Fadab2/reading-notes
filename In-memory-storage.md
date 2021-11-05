@@ -1,16 +1,3 @@
-## In memory storage
-
-## JavaScript Call Stack
-1. What is a ‘call’?
-    - data structure that uses the Last In, First Out (LIFO) principle to temporarily store and manage function invocation (call).
-2. How many ‘calls’ can happen at once?
-   - Just one
-3. What does LIFO mean?
-   -  Last In, First Out
-4. Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
-   - to generate call stack functions call each other and the last function that doesn't have to call other function executes first then the one the called it all the way to the function that make the first call.
-5. What causes a Stack Overflow?
-   - Recursive function without an exit   point
 
 ## In memory storage
 
