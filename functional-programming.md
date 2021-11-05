@@ -15,7 +15,7 @@
 5. What is Referential transparency?
    - same output for same input
 
-## Videos
+## Module
 
 1. What is a module?
    - a javaScript file
