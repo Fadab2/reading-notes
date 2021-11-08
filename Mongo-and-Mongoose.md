@@ -42,13 +42,13 @@ Fill in the chart below with five differences between SQL and NoSQL databases:
 5. What is a NoSQL database?
    - irrational non-table based database
 6. How does it work?
-   - Instead of tables we have collection and ducoments
+   - Instead of tables we have collection and documents
 7. What is inside of a Mongo database?
    - documents.
 8. Which is more flexible - SQL or MongoDB? and why.
    - MongoDB is more flexible. Because you can have like empty values
 9.  What is the disadvantage of a NoSQL database?
-    - schema-less can be disadvatage because you have no schema to inforce some relation.
+    - schema-less can be disadvantage because you have no schema to enforce some relation.
 
 ## Things I want to know more about
  - Relational Databases
