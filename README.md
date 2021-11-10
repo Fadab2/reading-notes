@@ -67,3 +67,4 @@ Whenever we feel something is above our abilities and we cannot do it we have to
  25. [In memory storage](In-memory-storage.md)
  26. [Mongo and Mongoose](Mongo-and-Mongoose.md)
  27. [CRUD](crud.md)
+ 28. [Diversity in Tech](diversity-and-inclusion.md)
