@@ -73,3 +73,4 @@ Whenever we feel something is above our abilities and we cannot do it we have to
  ## ***Code 401 - Advanced Software Development***
 
  [Prep your mindset](mindset-prep.md)
+ [Big O](class01.md)
