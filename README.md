@@ -71,3 +71,5 @@ Whenever we feel something is above our abilities and we cannot do it we have to
  29. [Authentication](authentication.md)
 
  ## ***Code 401 - Advanced Software Development***
+
+ [Prep your mindset](mindset-prep.md)
