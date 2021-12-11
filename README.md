@@ -77,3 +77,5 @@ Whenever we feel something is above our abilities and we cannot do it we have to
  [Big O](class01.md)
  
  [Testing and Modules](testing-and-modules.md)
+
+ [FileIO & Exceptions](fileio-exceptions.md)
