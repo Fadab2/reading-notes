@@ -79,3 +79,5 @@ Whenever we feel something is above our abilities and we cannot do it we have to
  [Testing and Modules](testing-and-modules.md)
 
  [FileIO & Exceptions](fileio-exceptions.md)
+
+ [Classes and Objects](classes-objects.md)
