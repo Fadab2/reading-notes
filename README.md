@@ -81,3 +81,5 @@ Whenever we feel something is above our abilities and we cannot do it we have to
  [FileIO & Exceptions](fileio-exceptions.md)
 
  [Classes and Objects](classes-objects.md)
+
+ [Linked Lists](linked-lists.md)
