@@ -83,3 +83,6 @@ Whenever we feel something is above our abilities and we cannot do it we have to
  [Classes and Objects](classes-objects.md)
 
  [Linked Lists](linked-lists.md)
+
+ [Random Module, Risk Analysis and Test Coverage](class06.md)
+ 
