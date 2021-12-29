@@ -86,3 +86,5 @@ Whenever we feel something is above our abilities and we cannot do it we have to
 
  [Random Module, Risk Analysis and Test Coverage](class06.md)
  
+ [Python Scope](class-07-scope.md)
+ 
