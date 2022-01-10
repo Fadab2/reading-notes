@@ -1,4 +1,5 @@
 # Dunder Methods
+
 * Dunder methods, also know as magic methods are predefined methods we can use enhance our classes.
 * Dunder methods start and end with double underscore "dunder" `__init__`, `__str__`, `__mul__`, `__sub__` etc
 * Dunder methods help us imitate Python's built-in methods.
@@ -15,6 +16,7 @@ class LenSupport:
 * Knowing how to use dunder methods is important and makes code more Pythonic.
 * `__repr__` used for a string representation of an object.
 * `__str__` is used for string representation to be displayed for enduser.
+
 ```
  def __repr__(self):
         return 'Account({!r}, {!r})'.format(self.owner, self.amount)
@@ -27,8 +29,6 @@ class LenSupport:
 * Dunder methods can be used to create iteration, indexing, etc as shown below:
 ```
 class Account:
-    # ... (see above)
-
     def __len__(self):
         return len(self._transactions)
 
@@ -37,6 +37,7 @@ class Account:
 ```
 
 ## Operator Overload
+
 * Operator overloads are dunder methods to add operations such as addition, subtraction, comparison etc: `__add__`, `__eq__`, `__lt__`
 * We can make our objects callable by implementing the `__call__` dunder method.
 
@@ -52,11 +53,11 @@ class Account:
 * Three Sigma Rule 68-95-99.7 rule, shows the distance from mean.
 * Z-score is a way to calculate how many standard deviation from mean is a given data.
 
-
 ## References:
 
 [Enriching Your Python Classes With Dunder (Magic, Special) Methods](https://dbader.org/blog/python-dunder-methods)
 [Basic Statistics in Python — Probability](https://www.dataquest.io/blog/basic-statistics-in-python-probability/)
+
 
 
  <br /> <br /> 
