@@ -90,3 +90,5 @@ Whenever we feel something is above our abilities and we cannot do it we have to
 
  [Python List Comprehension](class-08-list.md)
  
+ [Dunder methods & Statistics](class-09-dunder.md
+ )
