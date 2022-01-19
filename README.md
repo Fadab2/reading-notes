@@ -91,3 +91,5 @@ Whenever we feel something is above our abilities and we cannot do it we have to
 [Stacks and Queues](class-10-stacks-queues.md)
 
 [Jupyter and Numpy](class-11-jupyter-numpy.md)
+
+[Pandas](class-12-pandas.md)
