@@ -133,6 +133,7 @@ year_one = [
 - Other methods are `mean(), std, min, max`
 
 <br /> 
+
 ## References:
 
 [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
