@@ -93,3 +93,5 @@ Whenever we feel something is above our abilities and we cannot do it we have to
 [Jupyter and Numpy](class-11-jupyter-numpy.md)
 
 [Pandas](class-12-pandas.md)
+
+[Linear Regressions](calss13--linear-regressions.md)
