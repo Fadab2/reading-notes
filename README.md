@@ -97,3 +97,5 @@ Whenever we feel something is above our abilities and we cannot do it we have to
 [Linear Regressions](calss13-linear-regressions.md)
 
 [Data Visualization](class14-data-visualization.md)
+
+[Trees](trees.md)
