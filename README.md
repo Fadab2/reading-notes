@@ -99,3 +99,5 @@ Whenever we feel something is above our abilities and we cannot do it we have to
 [Data Visualization](class14-data-visualization.md)
 
 [Trees](trees.md)
+
+[Serverless Functions](serverless-functions-class-16.md)
