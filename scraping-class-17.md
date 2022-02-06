@@ -1,4 +1,7 @@
 # Web Scrape with Python
+
+<br />
+
 * Web scraping is accessing a website using a software and extracting the needed information.
 * Web scrape helps us automate data collection from websites. Instead of clicking and downloading each file for example, we can write a code that does that work in large amount in less time.
 * When we web scrape we have to comply the terms and conditions of the websites we are scraping on how to use their service and data collected from them.
