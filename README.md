@@ -103,3 +103,5 @@ Whenever we feel something is above our abilities and we cannot do it we have to
 [Serverless Functions](serverless-functions-class-16.md)
 
 [Web Scraping with Python](scraping-class-17.md)
+
+[Cryptoraphy](cryptography-class-18.md)
