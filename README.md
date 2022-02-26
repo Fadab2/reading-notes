@@ -107,3 +107,5 @@ Whenever we feel something is above our abilities and we cannot do it we have to
 [Cryptoraphy](cryptography-class-18.md)
 
 [Python Regular Expression](automation-class-19.md)
+
+[Introduction to Django](django-class-26.md)
