@@ -109,3 +109,7 @@ Whenever we feel something is above our abilities and we cannot do it we have to
 [Python Regular Expression](automation-class-19.md)
 
 [Introduction to Django](django-class-26.md)
+
+[Django Models](django-models-class-27.md)
+
+[Insertion Sort](BLOG.md)
