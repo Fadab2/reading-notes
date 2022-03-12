@@ -59,15 +59,6 @@ class RenewBookForm(forms.Form):
         return data
 ```
 
-
-
-
-
-
-
-
-
-
 <br />
 
 ## References

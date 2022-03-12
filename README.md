@@ -113,3 +113,7 @@ Whenever we feel something is above our abilities and we cannot do it we have to
 [Django Models](django-models-class-27.md)
 
 [Insertion Sort](BLOG.md)
+
+[Django Custom User](django-custom-user.md)
+
+[Hash Table](hash-table.md)
