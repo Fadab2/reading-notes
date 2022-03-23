@@ -121,3 +121,5 @@ Whenever we feel something is above our abilities and we cannot do it we have to
 [Django REST Framework & Docker](django-rest-and-docker.md)
 
 [Permissions](permissions.md)
+
+[Authentication JWT](authentication-jwt.md)
