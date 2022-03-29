@@ -125,3 +125,5 @@ Whenever we feel something is above our abilities and we cannot do it we have to
 [Authentication JWT](authentication-jwt.md)
 
 [API Deployment](api-deployment.md)
+
+[Graphs](graphs.md)
