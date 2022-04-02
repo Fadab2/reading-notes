@@ -127,3 +127,5 @@ Whenever we feel something is above our abilities and we cannot do it we have to
 [API Deployment](api-deployment.md)
 
 [Graphs](graphs.md)
+
+[DSA review](dsa-review.md)

@@ -48,6 +48,7 @@ ALGORITHM BreadthFirst(vertex)
     return nodes;
 ```
 * Depth first: Stack is used `root, push, peek, pop`
+
 <br />
 
 ## References
