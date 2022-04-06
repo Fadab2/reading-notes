@@ -19,6 +19,7 @@ before starting to code/whiteboard:
 5. Be humble, be ready to express your ideas and accept criticism and be respectful.
 6. Come prepared
 7. Review your work if you have time and try to optimize your algorithm.
+
 <br />
 
 ### References
