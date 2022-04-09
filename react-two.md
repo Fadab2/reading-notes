@@ -108,6 +108,7 @@ const listItems = numbers.map((number) =>
 * In HTML `<select>` creates a drop-down list
 * In React uses value attribute is used in place of selected tag as well.
 
+The state is first added to the component that needs it for rendering. Then, if other components also need it, you can lift it up to their closest common ancestor.
 <br />
 
 ### References
