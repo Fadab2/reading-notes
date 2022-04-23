@@ -130,6 +130,8 @@ Whenever we feel something is above our abilities and we cannot do it we have to
 
 [DSA review](dsa-review.md)
 
-[React one](react-intro.md)
+[React 1](react-intro.md)
 
-[React Two](react-two.md)
+[React 1](react-two.md)
+
+[React 3](dynamic-routes-deployment.md)
