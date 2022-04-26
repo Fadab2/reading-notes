@@ -135,3 +135,5 @@ Whenever we feel something is above our abilities and we cannot do it we have to
 [React 1](react-two.md)
 
 [React 3](dynamic-routes-deployment.md)
+
+[Pythonisms](pythonisms.md)
